@@ -1,0 +1,23 @@
+{
+    "name": "@dgtlmonk/eslint-config",
+    "version": "1.0.0",
+    "description": "shareable eslint-config",
+    "keywords": [
+        "eslint",
+        "eslint",
+        "config"
+    ],
+    "author": "dgtlmonk <dgtlmonk@gmail.com>",
+    "homepage": "",
+    "license": "ISC",
+    "main": "index.js",
+    "publishConfig": {
+        "access": "public"
+    },
+    "dependencies": {
+        "eslint": "^8.11.0",
+        "eslint-plugin-react": "^7.29.4",
+        "@typescript-eslint/eslint-plugin": "^5.15.0",
+        "@typescript-eslint/parser": "^5.15.0"
+    }
+}
